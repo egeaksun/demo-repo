@@ -7,3 +7,7 @@ When I update this, the commmit message next to it should become "Upate README.m
 ## Subheader
 
 Two pound symbols create a subheader, this should be useful.
+
+## Local Development
+
+1. Run Demo1.py on your computer, it is the simplest Python script of all time!
